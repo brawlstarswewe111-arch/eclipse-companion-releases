@@ -1,9 +1,9 @@
-﻿{
+{
     "versionName":  "1.0.4",
     "versionCode":  5,
     "minimumSupportedVersionCode":  3,
     "releaseDate":  "2026-11-17",
     "releaseNotes":  "Eclipse Companion 1.0.4: update installer and manifest validation improvements, expanded language coverage with safe English fallbacks for untranslated strings, refined eclipse viewing and visitor experience, and opening-sequence polish.",
     "apkUrl":  "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk",
-    "sha256":  "ce9c6de99219e06452c03f0fd0fcd11d34c031bdc7d02166bee6b7693e73f230"
+    "sha256":  "8dd9e22e827e6c42bb176444416080cc659156a23986ff9a853ca47388934d67"
 }
