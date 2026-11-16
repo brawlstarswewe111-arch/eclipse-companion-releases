@@ -1,9 +1,9 @@
-{
-  "versionName": "1.0.3",
-  "versionCode": 4,
-  "minimumSupportedVersionCode": 3,
-  "releaseDate": "2026-11-15",
-  "releaseNotes": "Eclipse Companion update.",
-  "apkUrl": "https://github.com/brawlstarswewe111-arch/eclipse-companion-releases/releases/latest/download/Eclipse-Companion.apk",
-  "sha256": "de03140ba159d0ac2659d987af77ef0af95929df7e8e36083e6198e399325a6b"
+﻿{
+    "versionName":  "1.0.3",
+    "versionCode":  4,
+    "minimumSupportedVersionCode":  3,
+    "releaseDate":  "2026-11-16",
+    "releaseNotes":  "Updated Android release with the verified in-app update installer, release manifest validation, and application stability improvements.",
+    "apkUrl":  "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk",
+    "sha256":  "6c27468c7d85fe66a7d22c6cc04234d1bf101ebb5d0ef087ee18791e139d9321"
 }
