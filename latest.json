@@ -1,9 +1,9 @@
 {
-    "versionName":  "1.0.5",
-    "versionCode":  6,
-    "minimumSupportedVersionCode":  3,
-    "releaseDate":  "2026-11-17",
-    "releaseNotes":  "Eclipse Companion 1.0.5: adds native eclipse reminders with scheduling and cancellation, introduces the interactive Solar System Explorer, and improves the Prepare for 2027 experience.",
-    "apkUrl":  "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk",
-    "sha256":  "067dc874217eb5b5a1132917240a485bc5bd72ebb291bfe732b1ba075b4b61b8"
+  "versionName": "1.0.6",
+  "versionCode": 7,
+  "minimumSupportedVersionCode": 3,
+  "releaseDate": "2026-11-17",
+  "releaseNotes": "Eclipse Companion 1.0.6: introduces the new multilingual title, “When the Sun and Moon Choose Egypt”, across all 22 supported interface languages. Includes update-check and release compatibility improvements.",
+  "apkUrl": "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk",
+  "sha256": "9df54ee0e53d9fc611b72ce836021249bd5287392349c15c677797dcd8dbae8f"
 }
