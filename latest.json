@@ -1,9 +1,9 @@
 ﻿{
-    "versionName":  "1.0.16",
-    "versionCode":  17,
+    "versionName":  "1.0.17",
+    "versionCode":  18,
     "minimumSupportedVersionCode":  3,
     "releaseDate":  "2026-11-17",
-    "releaseNotes":  "Eclipse Companion 1.0.16: changes the Open installer action after a verified update download so it opens the official GitHub APK page in the phone browser. Download the current APK from GitHub and complete installation there. Keeps the existing package ID and signing certificate for in-place upgrades.",
+    "releaseNotes":  "Eclipse Companion 1.0.17: makes Open installer launch the official GitHub APK page using a native Android external-browser intent, restricted to HTTPS GitHub hosts. The user can download the latest APK from GitHub and complete installation. Keeps the existing package ID and signing certificate for in-place upgrades.",
     "apkUrl":  "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk",
-    "sha256":  "430682d7ccdaf5f5a7d96db638c26d9e3fe81c0be9d60db4036fbc1a437df4e0"
+    "sha256":  "44d0c12cfad2365c8aa397ab386b66238e53ed992ba58fa7a91a633733c53a22"
 }
