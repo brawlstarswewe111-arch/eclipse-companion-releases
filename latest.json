@@ -1,9 +1,9 @@
 {
-  "versionName": "1.0.14",
-  "versionCode": 15,
+  "versionName": "1.0.15",
+  "versionCode": 16,
   "minimumSupportedVersionCode": 3,
   "releaseDate": "2026-11-17",
-  "releaseNotes": "Eclipse Companion 1.0.14: a redesigned theme gallery with illustrated visual previews and ten distinct atmospheres, plus separate Light and Dark modes. Each theme changes the app surfaces, navigation, cards and background styling, not only accent colours. Improves the language selector with clearer search, selected-language status and coverage indicators. Includes the offline private photo album, Android home-screen countdown widget, local eclipse-phase reminders, live local weather with cached offline readings, tourist-friendly Egypt viewing finder and attractions, interactive eclipse map and simulator, camera guide, safety and emergency help, trip planner, offline learning, journal, achievements and solar-system explorer. Android update package is signed with the same certificate as 1.0.13 and is verified before installation.",
+  "releaseNotes": "Eclipse Companion 1.0.15: illustrated, scene-based theme previews and ten distinct visual atmospheres alongside Light and Dark modes. Themes style the app's surfaces, navigation, cards and background, not only accent colours. Refined language selector and clearer tourist-first access to Egypt viewing locations, attractions, maps, safety, transport preparation and offline visitor information. Includes the offline private photo album, Android home-screen countdown widget, local eclipse-phase reminders, live local weather with offline cache, eclipse map and simulator, camera guide, safety and emergency help, trip planner, learning library, journal, achievements and solar-system explorer. Fixes Android APK installer intent resolution for devices that require the APK MIME type, and keeps the same signing certificate so existing installations can update in place.",
   "apkUrl": "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk",
-  "sha256": "f8be1efe4b0edd1d332586d77ad0612d5263c350158408d40fd03fa5603dfdaa"
+  "sha256": "a9e7c64d865960dc154abce3e120ed0e568cd91a7ecd4c07fc1bfdc76dbb5e83"
 }
