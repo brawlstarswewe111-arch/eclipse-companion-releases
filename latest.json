@@ -1,9 +1,9 @@
-{
-  "versionName": "1.0.15",
-  "versionCode": 16,
-  "minimumSupportedVersionCode": 3,
-  "releaseDate": "2026-11-17",
-  "releaseNotes": "Eclipse Companion 1.0.15: illustrated, scene-based theme previews and ten distinct visual atmospheres alongside Light and Dark modes. Themes style the app's surfaces, navigation, cards and background, not only accent colours. Refined language selector and clearer tourist-first access to Egypt viewing locations, attractions, maps, safety, transport preparation and offline visitor information. Includes the offline private photo album, Android home-screen countdown widget, local eclipse-phase reminders, live local weather with offline cache, eclipse map and simulator, camera guide, safety and emergency help, trip planner, learning library, journal, achievements and solar-system explorer. Fixes Android APK installer intent resolution for devices that require the APK MIME type, and keeps the same signing certificate so existing installations can update in place.",
-  "apkUrl": "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk",
-  "sha256": "a9e7c64d865960dc154abce3e120ed0e568cd91a7ecd4c07fc1bfdc76dbb5e83"
+﻿{
+    "versionName":  "1.0.16",
+    "versionCode":  17,
+    "minimumSupportedVersionCode":  3,
+    "releaseDate":  "2026-11-17",
+    "releaseNotes":  "Eclipse Companion 1.0.16: changes the Open installer action after a verified update download so it opens the official GitHub APK page in the phone browser. Download the current APK from GitHub and complete installation there. Keeps the existing package ID and signing certificate for in-place upgrades.",
+    "apkUrl":  "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk",
+    "sha256":  "430682d7ccdaf5f5a7d96db638c26d9e3fe81c0be9d60db4036fbc1a437df4e0"
 }
