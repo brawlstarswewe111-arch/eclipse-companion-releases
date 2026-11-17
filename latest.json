@@ -1,9 +1,9 @@
 {
-  "versionName": "1.0.6",
-  "versionCode": 7,
+  "versionName": "1.0.12",
+  "versionCode": 13,
   "minimumSupportedVersionCode": 3,
   "releaseDate": "2026-11-17",
-  "releaseNotes": "Eclipse Companion 1.0.6: introduces the new multilingual title, “When the Sun and Moon Choose Egypt”, across all 22 supported interface languages. Includes update-check and release compatibility improvements.",
+  "releaseNotes": "Eclipse Companion 1.0.12: adds Light and Dark modes plus ten additional colour themes; improves the language selector; repairs Android APK installer hand-off and adds a direct GitHub download route; adds live local cloud cover, temperature, humidity and wind readings with offline cache; removes bundled obsolete APKs to reduce download size.",
   "apkUrl": "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk",
-  "sha256": "9df54ee0e53d9fc611b72ce836021249bd5287392349c15c677797dcd8dbae8f"
+  "sha256": "1d2e84a50d73bdca69524557902a948673b990202bceb8b4d0bc522d9cda8b54"
 }
