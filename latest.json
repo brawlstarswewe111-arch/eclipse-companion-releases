@@ -1,9 +1,9 @@
 {
-  "versionName": "1.0.13",
-  "versionCode": 14,
+  "versionName": "1.0.14",
+  "versionCode": 15,
   "minimumSupportedVersionCode": 3,
   "releaseDate": "2026-11-17",
-  "releaseNotes": "Eclipse Companion 1.0.13: fixes the Android APK installer hand-off and adds a direct GitHub APK download; introduces Light and Dark modes plus ten extra colour themes; refreshes the language selector; adds live local cloud cover, temperature, humidity and wind readings with offline cache; adds a private offline photo album stored on-device; adds an Android home-screen countdown widget; expands local notifications to include Luxor eclipse phase milestones; retains the trip planner, offline essentials, GPS viewing finder, safety guide, emergency help, Egypt attractions, journal, achievements and solar-system explorer. Removes bundled obsolete APKs to reduce installer size.",
+  "releaseNotes": "Eclipse Companion 1.0.14: a redesigned theme gallery with illustrated visual previews and ten distinct atmospheres, plus separate Light and Dark modes. Each theme changes the app surfaces, navigation, cards and background styling, not only accent colours. Improves the language selector with clearer search, selected-language status and coverage indicators. Includes the offline private photo album, Android home-screen countdown widget, local eclipse-phase reminders, live local weather with cached offline readings, tourist-friendly Egypt viewing finder and attractions, interactive eclipse map and simulator, camera guide, safety and emergency help, trip planner, offline learning, journal, achievements and solar-system explorer. Android update package is signed with the same certificate as 1.0.13 and is verified before installation.",
   "apkUrl": "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk",
-  "sha256": "6bf7bd2ea0394ef48a7c68840551e48f8069d27f56dba350ae92dfebad749367"
+  "sha256": "f8be1efe4b0edd1d332586d77ad0612d5263c350158408d40fd03fa5603dfdaa"
 }
