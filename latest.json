@@ -1,9 +1,9 @@
-{
-    "versionName":  "1.0.18",
-    "versionCode":  19,
+﻿{
+    "versionName":  "1.0.19",
+    "versionCode":  20,
     "minimumSupportedVersionCode":  3,
     "releaseDate":  "2026-11-18",
-    "releaseNotes":  "Eclipse Companion 1.0.18: fixes the Open installer handoff. Android now launches the system app chooser from the foreground activity so the official GitHub APK page can open in an external browser. Keeps the existing package ID and signing certificate for in-place upgrades.",
+    "releaseNotes":  "Eclipse Companion 1.0.19 introduces six complete named design themes: Eclipse Classic, Deep Space, Desert Observatory, Aurora Glass, Cosmic Editorial and High Contrast. Each theme controls its visual system, including typography, spacing, surfaces, borders, radii and shadows. Existing saved theme choices are automatically mapped to the closest new theme.",
     "apkUrl":  "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk",
-    "sha256":  "435d68d00ff72ba8ed8a98779eeb334b4c55aef97e90a268b1d5d9a1acb06e29"
+    "sha256":  "b7a4072796d64c6134b731eb39f7a9709fc32d950d44df35e5da2319ae30d72a"
 }
