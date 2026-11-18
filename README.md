@@ -1,13 +1,11 @@
-﻿# Eclipse Companion official APK releases
+# Eclipse Companion Android Releases
 
-The latest signed Android installer is **Eclipse Companion 1.0.19** (version code 20).
+The latest signed Android installer is **Eclipse Companion 1.0.20** (version code 21).
 
-- [Download the latest APK](https://github.com/brawlstarswewe111-arch/eclipse-companion-releases/blob/main/Eclipse-Companion.apk)
+- [Download the latest APK directly](https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk)
 - [Browse release history](https://github.com/brawlstarswewe111-arch/eclipse-companion-releases/releases)
 - Update manifest: `latest.json`
 
-Version 1.0.19 adds six complete named visual themes. The in-app updater downloads the APK, verifies its SHA-256, Android package ID, version code and signing certificate, then opens Android's system installer. Android asks the user to confirm installation. This release keeps the existing package ID and signing certificate for in-place upgrades.
+Version 1.0.20 simplifies the update experience. When an update is available, the app opens the direct APK download link. The user downloads the APK and confirms installation through Android. The app does not silently install updates. This release keeps the existing package ID and signing certificate so it can update earlier installations in place.
 
-**SHA-256:** `efa4e6a1e5cf5ae90b654272fcaa7f4356ea6f0784f74b0a2d4026bc040e18ee`
-
-
+**SHA-256:** `683ca8051e319173a24abbbeb3f6717b0c5688df24f5dc5d92d818bc5150c18e`
