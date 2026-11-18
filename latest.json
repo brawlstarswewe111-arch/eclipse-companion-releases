@@ -3,7 +3,7 @@
     "versionCode":  20,
     "minimumSupportedVersionCode":  3,
     "releaseDate":  "2026-11-18",
-    "releaseNotes":  "Eclipse Companion 1.0.19 introduces six complete named design themes: Eclipse Classic, Deep Space, Desert Observatory, Aurora Glass, Cosmic Editorial and High Contrast. Each theme controls its visual system, including typography, spacing, surfaces, borders, radii and shadows. Existing saved theme choices are automatically mapped to the closest new theme.",
+    "releaseNotes":  "Eclipse Companion 1.0.19 introduces six complete named design themes: Eclipse Classic, Deep Space, Desert Observatory, Aurora Glass, Cosmic Editorial and High Contrast. Each theme changes the overall visual system, including typography, spacing, surfaces, borders, radii and shadows. Legacy saved themes are migrated automatically and the selected theme is applied before the first screen appears.",
     "apkUrl":  "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk",
-    "sha256":  "b7a4072796d64c6134b731eb39f7a9709fc32d950d44df35e5da2319ae30d72a"
+    "sha256":  "5396f5e02e79cf26f39863ce015143edd905fa32b617d7b0d0775cddb489398d"
 }
