@@ -1,9 +1,9 @@
 {
-    "releaseNotes":  "Eclipse Companion 1.0.21 adds a quick-copy button on the home screen so you can copy the 2 August 2027 total solar eclipse date. This small release is also a live test of the in-app update checker and direct APK download flow.",
-    "versionName":  "1.0.21",
-    "sha256":  "445f2eee03828ffdc6befc1c8432ab7089a56d90a04b897c4626bffe89e653b4",
-    "versionCode":  22,
-    "releaseDate":  "2026-11-18",
-    "minimumSupportedVersionCode":  3,
-    "apkUrl":  "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk"
+  "releaseNotes": "Eclipse Companion 1.0.22 expands the offline English and Arabic assistant with 23 knowledge entries and 138 reference questions, adds child-viewing safety and weather-planning guidance, and improves natural-language Luxor/Egypt map and camera-guide commands. The assistant remains offline.",
+  "versionName": "1.0.22",
+  "sha256": "6f1675f0e8f229c79e8ee1faa016c975ad603b92caaee2bd3e0418f01610ff22",
+  "versionCode": 23,
+  "releaseDate": "2026-11-18",
+  "minimumSupportedVersionCode": 3,
+  "apkUrl": "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk"
 }
