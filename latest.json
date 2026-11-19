@@ -1,9 +1,9 @@
 {
-  "releaseNotes": "Eclipse Companion 1.0.22 expands the offline English and Arabic assistant with 23 knowledge entries and 138 reference questions, adds child-viewing safety and weather-planning guidance, and improves natural-language Luxor/Egypt map and camera-guide commands. The assistant remains offline.",
-  "versionName": "1.0.22",
-  "sha256": "6f1675f0e8f229c79e8ee1faa016c975ad603b92caaee2bd3e0418f01610ff22",
-  "versionCode": 23,
-  "releaseDate": "2026-11-18",
-  "minimumSupportedVersionCode": 3,
-  "apkUrl": "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk?v=1.0.22"
+    "releaseNotes":  "Eclipse Companion 1.0.23 adds the persistent floating assistant shortcut and six photo-led named appearance themes, with refreshed theme previews and responsive styling. The offline English and Arabic assistant remains available.",
+    "versionName":  "1.0.23",
+    "sha256":  "edea047e38d908fdd1299dfaed572b1381b540a0b858685f2335ce538173f1c3",
+    "versionCode":  24,
+    "releaseDate":  "2026-11-19",
+    "minimumSupportedVersionCode":  3,
+    "apkUrl":  "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk?v=1.0.23"
 }
