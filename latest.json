@@ -1,9 +1,9 @@
-{
-    "releaseNotes":  "Eclipse Companion 1.0.23 adds the persistent floating assistant shortcut and six photo-led named appearance themes, with refreshed theme previews and responsive styling. The offline English and Arabic assistant remains available.",
-    "versionName":  "1.0.23",
-    "sha256":  "edea047e38d908fdd1299dfaed572b1381b540a0b858685f2335ce538173f1c3",
-    "versionCode":  24,
+﻿{
+    "releaseNotes":  "Eclipse Companion 1.1.0 adds a practical Sky Dashboard, an offline observation planner and a personal observation journal. The camera guide now has separate Professional Camera and Phone Camera modes, plus 10 brand cards for Apple iPhone, Samsung Galaxy, OPPO, Xiaomi/Redmi/POCO, Huawei, Google Pixel, OnePlus, vivo, Sony Xperia and Motorola. New planner labels are translated across all 20 supported interface locales. Existing offline English and Arabic astronomy guidance, safety resources and appearance themes remain included.",
+    "versionName":  "1.1.0",
+    "sha256":  "c1af2e7189341102c491dd787ea36f9d2999aee9680cc22a81c59ccdc8134293",
+    "versionCode":  25,
     "releaseDate":  "2026-11-19",
     "minimumSupportedVersionCode":  3,
-    "apkUrl":  "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk?v=1.0.23"
+    "apkUrl":  "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk?v=1.1.0"
 }
