@@ -1,9 +1,9 @@
 {
-    "releaseNotes":  "Eclipse Companion 1.1.0 adds a practical Sky Dashboard, an offline observation planner and a personal observation journal. The camera guide now has separate Professional Camera and Phone Camera modes, plus 10 brand cards for Apple iPhone, Samsung Galaxy, OPPO, Xiaomi/Redmi/POCO, Huawei, Google Pixel, OnePlus, vivo, Sony Xperia and Motorola. New planner labels are translated across all 20 supported interface locales. Existing offline English and Arabic astronomy guidance, safety resources and appearance themes remain included.",
-    "versionName":  "1.1.0",
-    "sha256":  "c1af2e7189341102c491dd787ea36f9d2999aee9680cc22a81c59ccdc8134293",
-    "versionCode":  25,
-    "releaseDate":  "2026-11-19",
+    "versionName":  "1.1.1",
+    "versionCode":  26,
     "minimumSupportedVersionCode":  3,
-    "apkUrl":  "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk?v=1.1.0"
+    "releaseDate":  "2026-11-22",
+    "releaseNotes":  "Eclipse Companion 1.1.1 delivers a major visual refresh with a premium NASA Mission Control-inspired interface, smoother page transitions and interactions, reduced-motion support, and two new complete themes: NASA Mission Control and Midnight Observatory. The home screen has a clearer six-destination layout and a daily astronomy fact. The camera area adds an interactive astrophotography target guide for the Moon, planets, stars and Milky Way, and solar eclipses. Existing astronomy guidance, phone camera brand guides, observation tools, and safety resources remain included. This release uses offline content and introduces no paid APIs or subscriptions.",
+    "apkUrl":  "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk?v=1.1.1",
+    "sha256":  "38aa3d533456c2b32cb541059c44a1e21c733b140490a54b3bbd08ee32f07948"
 }
