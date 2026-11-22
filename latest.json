@@ -1,9 +1,9 @@
 {
-    "versionName":  "1.1.1",
-    "versionCode":  26,
-    "minimumSupportedVersionCode":  3,
-    "releaseDate":  "2026-11-22",
-    "releaseNotes":  "Eclipse Companion 1.1.1 delivers a major visual refresh with a premium NASA Mission Control-inspired interface, smoother page transitions and interactions, reduced-motion support, and two new complete themes: NASA Mission Control and Midnight Observatory. The home screen has a clearer six-destination layout and a daily astronomy fact. The camera area adds an interactive astrophotography target guide for the Moon, planets, stars and Milky Way, and solar eclipses. Existing astronomy guidance, phone camera brand guides, observation tools, and safety resources remain included. This release uses offline content and introduces no paid APIs or subscriptions.",
-    "apkUrl":  "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk?v=1.1.1",
-    "sha256":  "38aa3d533456c2b32cb541059c44a1e21c733b140490a54b3bbd08ee32f07948"
+    "versionName": "1.1.2",
+    "versionCode": 27,
+    "minimumSupportedVersionCode": 3,
+    "releaseDate": "2026-11-22",
+    "releaseNotes": "Eclipse Companion 1.1.2 repairs corrupted interface text and Arabic camera guidance, adds proper Arabic translations for the new screens, and makes NASA Mission Control the default theme. The home screen now has one featured eclipse-map mission and five clear operational rows instead of duplicated card grids. The 20 additional interface languages are bundled as on-demand offline chunks, reducing the startup JavaScript bundle from about 1.79 MB to 444.57 KB. Existing learning, simulator, professional and phone camera guides, observation planner and journal, safety tools, public-place viewing finder, and offline assistant remain included.",
+    "apkUrl": "https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk?v=1.1.2",
+    "sha256": "c7c1f09f92e66a2bf892ac923aef3a369f137c6864a8d0e229821472eb8bc27c"
 }
