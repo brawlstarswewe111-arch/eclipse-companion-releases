@@ -1,13 +1,13 @@
-# Eclipse Companion Android Releases
+﻿# Eclipse Companion Android Releases
 
-The latest signed Android installer is **Eclipse Companion 1.1.3** (version code 28).
+The latest signed Android installer is **Eclipse Companion 1.1.5** (version code 30).
 
 - [Download the latest APK directly](https://raw.githubusercontent.com/brawlstarswewe111-arch/eclipse-companion-releases/main/Eclipse-Companion.apk)
 - [Browse release history](https://github.com/brawlstarswewe111-arch/eclipse-companion-releases/releases)
-- Update manifest: latest.json
+- Update manifest: `latest.json`
 
-Version 1.1.3 introduces Solar Editorial as the default visual theme, based on the approved bright Canva concept. It brings warm paper surfaces, navy typography, cobalt-blue actions and solar-orange accents across the app, adds Solar Editorial as a ninth complete theme, and preserves the existing alternatives and app features.
+Version 1.1.5 introduces two complete visual themes: Solar Atlas (light, default) and Eclipse Nocturne (dark). Each theme has its own photography, surfaces, typography, navigation and controls. Theme choice is saved between launches. The responsive system is checked across phone, landscape, tablet and desktop layouts. Existing astronomy and eclipse features remain included.
 
-The in-app updater checks latest.json, verifies the APK checksum, package, version and signing certificate, then opens Android's installer. Android still requires the user to confirm installation.
+The in-app updater checks `latest.json`, verifies the APK checksum, package, version and signing certificate, then opens Android's installer. Android still requires the user to confirm installation.
 
-SHA-256: 08703c09e440e133c69860ec04a250aca67803a3aac66b8354bdb07d9e318e1a
+SHA-256: 930525036f411896b3e67795bd19732127442b9c9c153f49096119e6433a01c5
